@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/WEB-INF/views/header.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/profileUpdate.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/service/IStudentService.java</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/Controller/Student/updateProfile.java</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/Controller/Student/loginServlet.java</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/profile.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/validation.js</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/DashBoardManager.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/WEB-INF/views/navigation.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/service/IStudentServiceImp.java</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/WEB-INF/views/stuNAV.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/Controller/Student/deleteProfileServlet.java</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/EntryTestResult.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/studentUpdate.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/studentDash.css</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/studentView.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/StudentDashboard.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/login.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/lecturerDashboard.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/registerSuccess.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/web/StudentRegister.jsp</file>
+            <file>file:/C:/Users/Fasrin/Documents/NetBeansProjects/Student/Student/src/java/Controller/Student/logout.java</file>
+        </group>
+    </open-files>
+</project-private>
